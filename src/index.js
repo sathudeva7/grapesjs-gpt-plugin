@@ -106,7 +106,7 @@ export default (editor, opts = {}) => {
             },
             {
               role: "user",
-              content: `${opts.content} ${inputValue}`,
+              content: `${opts.user_content} ${inputValue}`,
             },
           ],
         }),
