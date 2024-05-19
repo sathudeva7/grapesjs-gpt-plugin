@@ -1,9 +1,8 @@
 # Grapesjs-gpt-plugin
 
-[DEMO](##)
+[DEMO](##) https://jsfiddle.net/sathudeva7/ybjh4cwr/4/
 
-> **Provide a live demo of your plugin**
-> For a better user engagement create a simple live demo by using services like [JSFiddle](https://jsfiddle.net) [CodeSandbox](https://codesandbox.io) [CodePen](https://codepen.io) and link it here in your README (attaching a screenshot/gif will also be a plus).
+
 Video Demo:
 https://www.loom.com/share/061d84e2724d4ed597a9e8e1edf28aee?sid=467680a7-74a4-44cb-a322-53f53f5278f1
 
